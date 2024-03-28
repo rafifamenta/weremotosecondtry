@@ -1,0 +1,75 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+../.MemuHyperv/
+        ../.android/
+        ../.bash_history
+        ../.gitconfig
+        ../.lesshst
+        ../.node_repl_history
+        ../.oracle_jre_usage/
+        ../.ssh/
+        ../.viminfo
+        ../.vscode/
+        ../AppData/
+        ../Contacts/
+        ../Desktop/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Intel/
+        ../IntelGraphicsProfiles/
+        ../Lightworks/
+        ../Links/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+        ../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+        ../Pictures/
+        ../Saved Games/
+        ../Searches/
+        ../Videos/
+        ../nextjs-dashboard/
+        ../node_modules/
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../package-lock.json
+        ../package.json
+        ../quizapp/
+        ../usb_driver/
